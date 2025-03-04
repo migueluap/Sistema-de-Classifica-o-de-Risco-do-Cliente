@@ -37,7 +37,7 @@ data = get_data()
 model = train_model()
 
 # título
-st.title("Sistema de Previsão de Risco do Cliente para Concessão de Empréstimos- By Eduardo Rocha")
+st.title("Sistema de Previsão de Risco do Cliente para Concessão de Empréstimos- By Miguel")
 
 # subtítulo
 st.markdown("Este é um Aplicativo utilizado para exibir a solução de Ciência de Dados para o problema de predição de Risco do Cliente para concessão de empréstimos.")
